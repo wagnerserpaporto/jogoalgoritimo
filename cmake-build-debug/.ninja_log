@@ -1,0 +1,23 @@
+# ninja log v6
+5	1581	7541682968308807	CMakeFiles/final_flappy.dir/configs.c.obj	f7d0dacb04bd9028
+11	756	7541690186098438	CMakeFiles/final_flappy.dir/main.c.obj	4d8bc25009bf13aa
+4	687	7541688155459506	CMakeFiles/final_flappy.dir/creditos.c.obj	ab28bd754856c98
+8	768	7541690186068410	CMakeFiles/final_flappy.dir/instrucao.c.obj	d7db3c17d56459f0
+9	969	7541687637820896	CMakeFiles/final_flappy.dir/FlappyBird.c.obj	f7fdb91d578dd785
+4	740	7541690186033084	CMakeFiles/final_flappy.dir/inicio.c.obj	1ce2a908a3d7a316
+24	984	7541687637973134	CMakeFiles/final_flappy.dir/msg.c.obj	a950722067875dfe
+5	690	7541691512799418	CMakeFiles/final_flappy.dir/score.c.obj	e4cf6fec2aad50c3
+691	773	7541691519662009	final_flappy.exe	efc4685cc5915c60
+2	280	7541831694025279	build.ninja	b7a2d7dc97448746
+1	12	7541678261438838	clean	20b1347d9ae3b987
+7	104	7541831769598250	final_flappy.exe	efc4685cc5915c60
+2	17	7541831941593014	clean	20b1347d9ae3b987
+4	1108	7541831944263386	CMakeFiles/final_flappy.dir/configs.c.obj	f7d0dacb04bd9028
+27	1110	7541831944500110	CMakeFiles/final_flappy.dir/msg.c.obj	a950722067875dfe
+9	1120	7541831944313404	CMakeFiles/final_flappy.dir/creditos.c.obj	ab28bd754856c98
+12	1121	7541831944349804	CMakeFiles/final_flappy.dir/FlappyBird.c.obj	f7fdb91d578dd785
+16	1137	7541831944389812	CMakeFiles/final_flappy.dir/inicio.c.obj	1ce2a908a3d7a316
+19	1141	7541831944409804	CMakeFiles/final_flappy.dir/instrucao.c.obj	d7db3c17d56459f0
+31	1147	7541831944541293	CMakeFiles/final_flappy.dir/score.c.obj	e4cf6fec2aad50c3
+23	1151	7541831944460147	CMakeFiles/final_flappy.dir/main.c.obj	4d8bc25009bf13aa
+1151	1244	7541831955739877	final_flappy.exe	efc4685cc5915c60
